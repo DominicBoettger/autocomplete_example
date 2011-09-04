@@ -2,3 +2,27 @@
 
 This example shows how jquery ui autocomplete can work with a node.js socket connection.
 
+
+## Dependencies
+
+1. Node.js
+2. npm
+3. mongodb
+
+If you are a mac user and need additional information on how to install the dependencies, just have a look on http://inspirationlabs.com/blog/installing-nodejs-npm-and-mongodb-macosx-lion.
+
+## Installation
+
+1. Check out this repository
+2. Open the terminal
+3. Change into the checkd out directory
+4. npm install ( Install the required dependencies )
+5. node app.js
+
+## How to use
+
+To generate some data, just open your browser and enter http://localhost:3000/create .
+
+You will be redirected to the main page and see the input field.  The names Dominic, Heinz and Lorem are created by the /create script.
+
+After that you should only open http://localhost:3000 to have a look at this demo application.
