@@ -1,3 +1,11 @@
+/**
+ * Example node.js application to show how jquery.ui autocomplete
+ * can use data from a node.js socket connection
+ * 
+ * @author: Dominic Böttger
+ * @date: 2011/09/04
+ */
+
 var sys = require('sys');
 
 var express = require('express'),

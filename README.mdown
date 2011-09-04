@@ -1,0 +1,4 @@
+# Autocomplete node.js example
+
+This example shows how jquery ui autocomplete can work with a node.js socket connection.
+
